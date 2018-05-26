@@ -2,6 +2,23 @@
 
 [[device]]
 
+common_name = "Nexus 7 2013 Wifi"
+product_name = "flo"
+
+nhos_file = "NEXUS_7_2013_(FLO)_AICP_NOUGAT_NETHUNTER-signed.zip"
+nhos_url = "NEXUS_7_2013_(FLO)_AICP_NOUGAT_NETHUNTER-signed.zip"
+
+nhfs_file = "nethunter-flo_gl-nougat-kalifs-full-v3.2.zip"
+nhfs_url = "nethunter-flo_gl-nougat-kalifs-full-v3.2.zip"
+
+gapps_file = "open_gapps-arm-7.1-pico-20180526.zip"
+gapps_url = "https://github.com/opengapps/arm/releases/download/20180526/open_gapps-arm-7.1-pico-20180526.zip"
+
+twrp_file = "twrp-3.2.1-0-flo.img"
+twrp_url = "https://dl.twrp.me/flo/twrp-3.2.1-0-flo.img"
+
+[[device]]
+
 common_name = "Nexus 5"
 product_name = "hammerhead"
 
